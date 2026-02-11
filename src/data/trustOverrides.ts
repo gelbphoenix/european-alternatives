@@ -1,6 +1,8 @@
 import type { Reservation } from '../types';
 
 export const trustScoresById: Record<string, number> = {
+  ecosia: 7.5,
+  nextcloud: 7.6,
   tuta: 7.5,
 };
 
@@ -38,6 +40,37 @@ export const reservationsById: Record<string, Reservation[]> = {
       textDe: 'Eingaben aus dem Free-Tier können zur Modellverbesserung genutzt werden, während Pro/API-Kundendaten vom Training ausgenommen sind.',
       severity: 'moderate',
       sourceUrl: 'https://www.deepl.com/en/pro-data-security/',
+    },
+  ],
+  ecosia: [
+    {
+      id: 'search-partner-data-sharing',
+      text: 'Search requests are processed with external search partners, including transfer of search terms and IP address before Ecosia-side anonymization.',
+      textDe: 'Suchanfragen werden mit externen Suchpartnern verarbeitet, einschließlich Übermittlung von Suchbegriffen und IP-Adresse vor der Ecosia-seitigen Anonymisierung.',
+      severity: 'moderate',
+      sourceUrl: 'https://www.ecosia.org/privacy',
+    },
+    {
+      id: 'ai-search-us-llm-dependency',
+      text: 'AI Search routes prompts and metadata to OpenAI infrastructure, introducing US-provider dependency for this feature.',
+      textDe: 'AI Search leitet Prompts und Metadaten an OpenAI-Infrastruktur weiter und schafft damit für diese Funktion eine Abhängigkeit von einem US-Anbieter.',
+      severity: 'moderate',
+      sourceUrl: 'https://support.ecosia.org/article/1006-ai-search',
+    },
+    {
+      id: 'ai-overviews-cookie-opt-out',
+      text: 'AI Overviews can be disabled, but the preference is stored in a cookie and may reset when cookies are cleared.',
+      textDe: 'AI Overviews lassen sich deaktivieren, die Einstellung wird jedoch per Cookie gespeichert und kann beim Löschen von Cookies zurückgesetzt werden.',
+      severity: 'minor',
+      sourceUrl: 'https://support.ecosia.org/article/2045-ai-overviews',
+    },
+    {
+      id: 'upstream-search-provider-outage-risk',
+      text: 'Historical outages at upstream search providers have temporarily impacted Ecosia availability.',
+      textDe: 'Historische Ausfälle bei vorgelagerten Suchanbietern haben die Verfügbarkeit von Ecosia zeitweise beeinträchtigt.',
+      severity: 'minor',
+      date: '2024-05-23',
+      sourceUrl: 'https://techcrunch.com/2024/05/23/bing-is-down-bringing-duckduckgo-and-ecosia-down-too/',
     },
   ],
   filen: [
@@ -82,6 +115,28 @@ export const reservationsById: Record<string, Reservation[]> = {
       textDe: 'Ende-zu-Ende-Verschlüsselung ist ordnerbasiert und optional; die Standard-Serververschlüsselung bleibt für Admins zugänglich.',
       severity: 'moderate',
       sourceUrl: 'https://nextcloud.com/endtoend/',
+    },
+    {
+      id: 'lookup-server-privacy-incident-2025',
+      text: 'In March 2025, a lookup-server logic issue triggered unnecessary federated identity callback traffic; fixes shipped quickly, but it remained a material privacy-trust incident.',
+      textDe: 'Im Maerz 2025 fuehrte ein Logikfehler im Lookup-Server zu unnoetigem Callback-Traffic fuer federierte Identitaeten; der Fix kam schnell, blieb aber ein relevanter Privacy-Trust-Vorfall.',
+      severity: 'major',
+      date: '2025-03-07',
+      sourceUrl: 'https://github.com/nextcloud/server/issues/51335',
+    },
+    {
+      id: 'federation-ssrf-threat-model',
+      text: 'Federation and external storage are not designed to fully prevent SSRF by default, so network segmentation and strict outbound controls are recommended.',
+      textDe: 'Foederation und externer Storage sind nicht darauf ausgelegt, SSRF standardmaessig vollstaendig zu verhindern; Netzwerksegmentierung und strikte Outbound-Regeln sind daher empfohlen.',
+      severity: 'moderate',
+      sourceUrl: 'https://docs.nextcloud.com/server/31/admin_manual/installation/harden_server.html#ensure-that-your-nextcloud-instance-is-installed-in-a-dmz',
+    },
+    {
+      id: 'assistant-external-ai-provider-risk',
+      text: 'AI features are optional, but enabling AI-as-a-Service providers can route prompts to third-party APIs (for example OpenAI or Replicate).',
+      textDe: 'KI-Funktionen sind optional, aber bei aktivierten AI-as-a-Service-Anbietern koennen Prompts an Drittanbieter-APIs weitergeleitet werden (zum Beispiel OpenAI oder Replicate).',
+      severity: 'moderate',
+      sourceUrl: 'https://docs.nextcloud.com/server/31/admin_manual/ai/ai_as_a_service.html',
     },
   ],
   nordvpn: [
