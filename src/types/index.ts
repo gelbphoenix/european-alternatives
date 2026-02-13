@@ -75,6 +75,7 @@ export type CategoryId =
   | 'analytics'
   | 'project-management'
   | 'password-manager'
+  | '2fa-authenticator'
   | 'ai-ml'
   | 'hosting'
   | 'payments'

@@ -114,6 +114,13 @@ export const categories: Category[] = [
     usGiants: ['LastPass', '1Password', 'Dashlane'],
   },
   {
+    id: '2fa-authenticator',
+    name: '2FA Authenticators',
+    description: 'One-time password and push authenticator apps',
+    emoji: '📲',
+    usGiants: ['Google Authenticator', 'Microsoft Authenticator', 'Authy'],
+  },
+  {
     id: 'ai-ml',
     name: 'AI & Machine Learning',
     description: 'Artificial intelligence platforms and tools',

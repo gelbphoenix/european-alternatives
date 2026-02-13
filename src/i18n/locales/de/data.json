@@ -16,6 +16,7 @@
     "analytics": { "name": "Analyse", "description": "Web- und Produktanalyse" },
     "project-management": { "name": "Projektmanagement", "description": "Aufgaben- und Projektmanagement-Tools" },
     "password-manager": { "name": "Passwort-Manager", "description": "Passwortverwaltung und Sicherheit" },
+    "2fa-authenticator": { "name": "2FA-Authenticator", "description": "Apps fuer Einmalpasswoerter und Push-Authentifizierung" },
     "ai-ml": { "name": "KI & Maschinelles Lernen", "description": "Plattformen und Tools für künstliche Intelligenz" },
     "hosting": { "name": "Cloud & Hosting", "description": "Webhosting und Cloud-Infrastruktur" },
     "payments": { "name": "Zahlungen", "description": "Zahlungsabwicklung und Fintech" },

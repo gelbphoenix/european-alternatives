@@ -259,6 +259,27 @@ export const manualAlternatives: Alternative[] = [
     license: 'MPL-2.0',
   },
   {
+    id: 'privacyidea-authenticator',
+    name: 'privacyIDEA Authenticator',
+    description:
+      'German authenticator app by NetKnights that supports HOTP/TOTP tokens (SHA-1, SHA-256, SHA-512), Google-compatible QR enrollment, and push authentication with privacyIDEA Server, including deployments without Firebase. The mobile app is open source under Apache-2.0 and available at no cost for Android and iOS.',
+    localizedDescriptions: {
+      de: 'Deutsche Authenticator-App von NetKnights mit HOTP/TOTP-Token (SHA-1, SHA-256, SHA-512), Google-kompatibler QR-Einrichtung und Push-Authentifizierung mit dem privacyIDEA Server, auch ohne Firebase. Die mobile App ist unter Apache-2.0 quelloffen und kostenlos fuer Android und iOS verfuegbar.',
+    },
+    website: 'https://netknights.it/en/products/privacyidea-authenticator-app/',
+    logo: '/logos/privacyidea-authenticator.png',
+    country: 'de',
+    category: '2fa-authenticator',
+    replacesUS: ['Google Authenticator', 'Microsoft Authenticator', 'Authy'],
+    isOpenSource: true,
+    openSourceLevel: 'full',
+    sourceCodeUrl: 'https://github.com/privacyidea/pi-authenticator',
+    pricing: 'free',
+    tags: ['2fa', 'authenticator', 'otp', 'totp', 'hotp', 'push-authentication', 'open-source', 'android', 'ios'],
+    headquartersCity: 'Kassel',
+    license: 'Apache-2.0',
+  },
+  {
     id: 'tresorit',
     name: 'Tresorit',
     description:

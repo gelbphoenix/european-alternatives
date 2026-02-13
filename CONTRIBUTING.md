@@ -118,6 +118,7 @@ npm run lint      # Ensure no linting issues
 | `analytics` | Analytics | Google Analytics, Mixpanel, Amplitude |
 | `project-management` | Project Management | Jira, Asana, Monday.com, Trello |
 | `password-manager` | Password Manager | LastPass, 1Password, Dashlane |
+| `2fa-authenticator` | 2FA Authenticators | Google Authenticator, Microsoft Authenticator, Authy |
 | `ai-ml` | AI & Machine Learning | OpenAI, Google AI, AWS AI |
 | `hosting` | Cloud & Hosting | AWS, Google Cloud, Azure, Cloudflare |
 | `payments` | Payments | Stripe, PayPal, Square |

@@ -27,7 +27,7 @@ This is not about nationalism. It's about choice, transparency, and building a h
 
 ## Features
 
-- **Browse by category** — Email, Cloud Storage, Messaging, AI, Payments, and 13 more
+- **Browse by category** — Email, Cloud Storage, Messaging, AI, Payments, and 14 more
 - **Filter by country, pricing, and open-source status** — find exactly what you need
 - **Trust Score (1-10) + vetting status** — transparent scoring with reservations and confidence level
 - **Search across all alternatives** — matches names, descriptions, tags, and replaced services
