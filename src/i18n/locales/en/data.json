@@ -12,6 +12,7 @@
     "maps": { "name": "Maps & Navigation", "description": "Mapping and navigation services" },
     "browser": { "name": "Browser", "description": "Web browsers" },
     "desktop-os": { "name": "Desktop Operating Systems", "description": "Desktop operating systems and kernels" },
+    "mobile-os": { "name": "Mobile Operating Systems", "description": "Mobile operating systems and kernels" },
     "vpn": { "name": "VPN", "description": "Virtual private network services" },
     "analytics": { "name": "Analytics", "description": "Web and product analytics" },
     "project-management": { "name": "Project Management", "description": "Task and project management tools" },
