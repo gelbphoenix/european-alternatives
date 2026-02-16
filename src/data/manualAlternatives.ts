@@ -677,4 +677,30 @@ export const manualAlternatives: Alternative[] = [
     sourceCodeUrl: 'https://github.com/imputnet/helium',
     license: 'BSD 3-Clause, GPL-3.0',
   },
+  {
+    id: 'cromite',
+    name: 'Cromite',
+    logo: '/logos/cromite.png',
+    description:
+      'Cromite is a Bromite fork with build-in ad blocking and privacy features.',
+    localizedDescriptions: {
+      de: 'Cromite ist ein Bromite-Fork mit integriertem AD-Blocker und Datenschutzfunktionen.',
+    },
+    website: 'https://cromite.org',
+    country: 'unknown',
+    category: 'browser',
+    replacesUS: ['Google Chrome', "Safari", "Edge"],
+    pricing: 'free',
+    isOpenSource: true,
+    openSourceLevel: 'full',
+    tags: [
+      'browser',
+      'free',
+      'adblock',
+      'google-chrome',
+      'safari'
+    ],
+    sourceCodeUrl: 'https://github.com/uazo/cromite',
+    license: 'GPL-3.0',
+  },
 ];
