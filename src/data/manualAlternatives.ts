@@ -734,4 +734,24 @@ export const manualAlternatives: Alternative[] = [
     sourceCodeUrl: 'https://github.com/uazo/cromite',
     license: 'GPL-3.0',
   },
+  {
+    id: 'mailu',
+    name: 'Mailu',
+    description:
+      'Open-source, self-hosted email server with simple Docker deployment, webmail interface and spamfiltering.',
+    localizedDescriptions: {
+      de: 'Open-Source, selbst gehosteter E-Mail-Server mit einfacher Docker-Installation, Webmail-Oberfläche und Spamfilter.',
+    },
+    website: 'https://mailu.io',
+    logo: '/logos/mailu.png',
+    country: 'unknown',
+    category: 'email',
+    replacesUS: ['Gmail', 'Outlook', 'Yahoo Mail'],
+    isOpenSource: true,
+    openSourceLevel: 'full',
+    sourceCodeUrl: 'https://github.com/Mailu/Mailu',
+    pricing: 'free',
+    tags: ['encryption', 'privacy', 'docker', 'spam-filter', 'self-hosted', 'easy-admin-interface'],
+    license: 'MIT License',
+  },
 ];
