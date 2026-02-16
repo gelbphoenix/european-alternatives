@@ -635,6 +635,27 @@ export const manualAlternatives: Alternative[] = [
     pricing: 'paid',
     tags: ['hosting', 'vps', 'root-server', 'cloud', 'gdpr', 'germany'],
     headquartersCity: 'Karlsruhe',
+
   },
-  
+  {
+    id: 'safing',
+    name: 'Safing Portmaster',
+    description:
+      'Open-source application firewall and network monitor from Austria that allows users to see and block all network activity on their device with a focus on privacy and simplicity.',
+    localizedDescriptions: {
+      de: 'Open-Source-Firewall und Netzwerk-Monitor aus Österreich (Baden), der es ermöglicht, alle Netzwerkaktivitäten auf dem Gerät zu sehen und gezielt zu blockieren – mit Fokus auf Privatsphäre.',
+    },
+    website: 'https://safing.io',
+    logo: '/logos/safing.svg',
+    country: 'at',
+    category: 'security',
+    replacesUS: ['GlassWire', 'Little Snitch', 'Windows Firewall'],
+    isOpenSource: true,
+    openSourceLevel: 'full',
+    sourceCodeUrl: 'https://github.com/safing/portmaster',
+    pricing: 'freemium',
+    tags: ['privacy', 'security', 'firewall', 'network-monitor', 'open-source', 'austria'],
+    headquartersCity: 'Baden',
+  },
 ];
+ 
