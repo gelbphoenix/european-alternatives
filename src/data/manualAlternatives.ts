@@ -538,4 +538,25 @@ export const manualAlternatives: Alternative[] = [
     headquartersCity: 'Strasbourg',
     license: 'Apache-2.0',
   },
+  {
+    id: 'signal',
+    name: 'Signal',
+    logo: '/logos/signal.svg',
+    description: 
+      'A free Instant-Messaging-Service for encrypted online communication',
+    localizedDescriptions: {
+      de: 'Ein freier Instant-Messaging-Dienst für verschlüsselte Online-Kommunikation.'
+    },
+    website: 'https://signal.org',
+    country: 'us',
+    category: 'messaging',
+    replacesUS: ['WhatsApp', 'iMessage', 'Facebook Messanger'],
+    isOpenSource: true,
+    openSourceLevel: 'full',
+    sourceCodeUrl: 'https://github.com/signalapp',
+    pricing: 'free',
+    tags: ['messaging', 'e2ee', 'privacy', 'encryption', 'gdpr'],
+    headquartersCity: 'International',
+    license: 'AGPL-3',
+  },
 ];
