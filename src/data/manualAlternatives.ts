@@ -617,6 +617,24 @@ export const manualAlternatives: Alternative[] = [
     tags: ['vpn', 'privacy', 'anonymity', 'security', 'token-based', 'iceland'],
     headquartersCity: 'Reykjavík',
   },
-
+  {
+    id: 'netcup',
+    name: 'netcup',
+    description:
+      'German hosting provider based in Karlsruhe, offering high-quality web hosting, VPS, and dedicated root servers with a strong focus on price-performance and sustainability.',
+    localizedDescriptions: {
+      de: 'Deutscher Hosting-Anbieter aus Karlsruhe, der Webhosting, VPS und dedizierte Root-Server anbietet. Fokus auf ein exzellentes Preis-Leistungs-Verhältnis und Nachhaltigkeit.',
+    },
+    website: 'https://www.netcup.com',
+    logo: '/logos/netcup.svg',
+    country: 'de',
+    category: 'hosting',
+    replacesUS: ['DigitalOcean', 'Linode', 'AWS', 'Google Cloud', 'Vultr'],
+    isOpenSource: false,
+    openSourceLevel: 'none',
+    pricing: 'paid',
+    tags: ['hosting', 'vps', 'root-server', 'cloud', 'gdpr', 'germany'],
+    headquartersCity: 'Karlsruhe',
+  },
   
 ];
