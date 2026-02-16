@@ -631,4 +631,25 @@ export const manualAlternatives: Alternative[] = [
     headquartersCity: 'Austin',
     license: 'AGPL-3.0',
   },
+  {
+    id: 'stratum',
+    name: 'Stratum',
+    logo: '/logos/stratum.svg',
+    description:
+      'Open-source local Android app for 2FA codes with encypted backups and a WearOS companion app.',
+    localizedDescriptions: {
+      de: 'Open-Source-Lokale Android-App für 2FA-Codes mit verschlüsselten Backups und einer WearOS-Kompanion-App.',
+    },
+    website: 'https://stratumauth.com/',
+    country: 'unknown',
+    category: '2fa-authenticator',
+    replacesUS: ['Google Authenticator', 'Microsoft Authenticator', 'Authy'],
+    isOpenSource: true,
+    openSourceLevel: 'full',
+    sourceCodeUrl: 'https://github.com/stratumauth/app',
+    pricing: 'free',
+    tags: ['2fa', 'authenticator', 'open-source', 'local-app', 'wearos'],
+    headquartersCity: '-',
+    license: 'GPL-3.0',
+  },
 ];
