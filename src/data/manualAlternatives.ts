@@ -558,4 +558,23 @@ export const manualAlternatives: Alternative[] = [
     headquartersCity: 'Strasbourg',
     license: 'Apache-2.0',
   },
+  
+  { id: 'black-com',
+    name: 'black.com',
+    description:
+      'Austrian-based secure email provider offering a clean, ad-free experience with a strong focus on privacy and European data sovereignty. Subscription starts at 3.50 € per month.',
+    localizedDescriptions: {
+      de: 'Sicherer E-Mail-Anbieter aus Österreich, der eine werbefreie und minimalistische Nutzeroberfläche mit Fokus auf Datenschutz und europäische Datensouveränität bietet. Kostenpflichtiger Dienst ab 3,50 € pro Monat.',
+    },
+    website: 'https://black.com',
+    logo: '/logos/black.svg',
+    country: 'at',
+    category: 'email',
+    replacesUS: ['Gmail', 'Outlook', 'Yahoo Mail'],
+    isOpenSource: false,
+    openSourceLevel: 'none',
+    pricing: 'paid',
+    tags: ['email', 'privacy', 'at-based', 'gdpr', 'no-ads', 'minimalist', 'paid'],
+    headquartersCity: 'Vienna',
+  },
 ];
