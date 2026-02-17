@@ -724,6 +724,8 @@ export const manualAlternatives: Alternative[] = [
     tags: ['messaging', 'e2ee', 'privacy', 'encryption', 'gdpr'],
     headquartersCity: 'International',
     license: 'GPLv3',
+  },
+  {
     id: 'contabo',
     name: 'Contabo',
     description:
