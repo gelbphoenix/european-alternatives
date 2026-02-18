@@ -29,7 +29,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'French AI company building frontier large language models and Le Chat, founded by former Google DeepMind and Meta researchers. Mistral uses a hybrid model strategy: some models are Apache 2.0, while stronger flagship tiers remain proprietary via API; consumer plans support training opt-out, and paid API/Team tiers are positioned as no-train.',
     localizedDescriptions: {
-      de: 'Franzoesisches KI-Unternehmen, das leistungsstarke Sprachmodelle und Le Chat entwickelt. Mistral verfolgt eine hybride Modellstrategie: einige Modelle sind unter Apache-2.0 verfuegbar, waehrend staerkere Flaggschiff-Tiers proprietaer per API bereitgestellt werden; fuer Consumer-Training gibt es Opt-out, waehrend bezahlte API- und Team-Tiers als no-train positioniert sind.',
+      de: 'Französisches KI-Unternehmen, das leistungsstarke Sprachmodelle und Le Chat entwickelt. Mistral verfolgt eine hybride Modellstrategie: einige Modelle sind unter Apache-2.0 verfügbar, während stärkere Flaggschiff-Tiers proprietär per API bereitgestellt werden; für Consumer-Training gibt es Opt-out, während bezahlte API- und Team-Tiers als no-train positioniert sind.',
     },
     website: 'https://mistral.ai',
     logo: '/logos/mistral.svg',
@@ -73,7 +73,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Dutch privacy-focused search engine that strips identifying metadata from queries and offers an Anonymous View proxy for result pages. Operated from The Hague under Surfboard Holding B.V., while Startpage also states it is part of US-listed System1.',
     localizedDescriptions: {
-      de: 'Niederlaendische Suchmaschine mit Datenschutzfokus, die identifizierende Metadaten aus Suchanfragen entfernt und einen Anonymous-View-Proxy fuer Ergebnisse anbietet. Der Betrieb erfolgt in Den Haag ueber Surfboard Holding B.V.; zugleich gibt Startpage an, Teil des boersennotierten US-Unternehmens System1 zu sein.',
+      de: 'Niederländische Suchmaschine mit Datenschutzfokus, die identifizierende Metadaten aus Suchanfragen entfernt und einen Anonymous-View-Proxy für Ergebnisse anbietet. Der Betrieb erfolgt in Den Haag über Surfboard Holding B.V.; zugleich gibt Startpage an, Teil des börsennotierten US-Unternehmens System1 zu sein.',
     },
     website: 'https://www.startpage.com',
     logo: '/logos/startpage.svg',
@@ -93,7 +93,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'French search engine positioned as a privacy-focused alternative to US search platforms. Qwant provides a free service with EU legal jurisdiction and clear policy disclosures, but key parts of search and advertising delivery still rely on Microsoft infrastructure.',
     localizedDescriptions: {
-      de: 'Franzoesische Suchmaschine, die sich als datenschutzorientierte Alternative zu US-Suchplattformen positioniert. Qwant bietet einen kostenlosen Dienst unter EU-Rechtsrahmen und relativ klare Datenschutzdokumentation, ist bei zentralen Teilen von Suche und Werbeauslieferung jedoch weiterhin von Microsoft-Infrastruktur abhaengig.',
+      de: 'Französische Suchmaschine, die sich als datenschutzorientierte Alternative zu US-Suchplattformen positioniert. Qwant bietet einen kostenlosen Dienst unter EU-Rechtsrahmen und relativ klare Datenschutzdokumentation, ist bei zentralen Teilen von Suche und Werbeauslieferung jedoch weiterhin von Microsoft-Infrastruktur abhängig.',
     },
     website: 'https://www.qwant.com',
     logo: '/logos/qwant.svg',
@@ -113,7 +113,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Swiss AI assistant from Proton focused on private chat workflows. Lumo uses zero-access encrypted history, no-training defaults, and optional web search, while trust reviews should still account for open-source-scope debates and Proton-wide outage history.',
     localizedDescriptions: {
-      de: 'Schweizer KI-Assistent von Proton mit Fokus auf private Chat-Workflows. Lumo nutzt Zero-Access-verschluesselte Verlaufsdaten, No-Training-Defaults und optionale Websuche, waehrend Trust-Reviews weiterhin Debatten zum Open-Source-Umfang und die Proton-weite Outage-Historie beruecksichtigen sollten.',
+      de: 'Schweizer KI-Assistent von Proton mit Fokus auf private Chat-Workflows. Lumo nutzt Zero-Access-verschlüsselte Verlaufsdaten, No-Training-Defaults und optionale Websuche, während Trust-Reviews weiterhin Debatten zum Open-Source-Umfang und die Proton-weite Outage-Historie berücksichtigen sollten.',
     },
     website: 'https://lumo.proton.me',
     logo: '/logos/lumo.svg',
@@ -156,7 +156,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'German infrastructure provider for cloud, dedicated servers, storage, and web hosting. Hetzner publishes ISO/IEC 27001:2022 and BSI C5 Type 2 assurance for its cloud stack and offers strong EU-centered governance options, but production setups should still enforce offsite backups and tested failover paths.',
     localizedDescriptions: {
-      de: 'Deutscher Infrastruktur-Anbieter fuer Cloud, Dedicated Server, Storage und Webhosting. Hetzner veroeffentlicht Nachweise zu ISO/IEC 27001:2022 und BSI C5 Typ 2 fuer den Cloud-Stack und bietet starke EU-zentrierte Governance-Optionen, dennoch sollten Produktiv-Setups Offsite-Backups und getestete Failover-Pfade verbindlich umsetzen.',
+      de: 'Deutscher Infrastruktur-Anbieter für Cloud, Dedicated Server, Storage und Webhosting. Hetzner veröffentlicht Nachweise zu ISO/IEC 27001:2022 und BSI C5 Typ 2 für den Cloud-Stack und bietet starke EU-zentrierte Governance-Optionen, dennoch sollten Produktiv-Setups Offsite-Backups und getestete Failover-Pfade verbindlich umsetzen.',
     },
     website: 'https://www.hetzner.com',
     logo: '/logos/hetzner.svg',
@@ -177,7 +177,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Community-built open map data commons stewarded by the OpenStreetMap Foundation. Data is free under ODbL and highly portable for self-hosting, but OSMF-operated tile and Nominatim endpoints are best-effort community services with usage limits and no enterprise SLA guarantees.',
     localizedDescriptions: {
-      de: 'Community-getragene offene Kartendatenbasis unter Stewardship der OpenStreetMap Foundation. Die Daten sind unter ODbL frei und gut fuer Self-Hosting nutzbar, waehrend von OSMF betriebene Tile- und Nominatim-Endpunkte Best-Effort-Community-Dienste mit Nutzungsgrenzen und ohne Enterprise-SLA-Garantien sind.',
+      de: 'Community-getragene offene Kartendatenbasis unter Stewardship der OpenStreetMap Foundation. Die Daten sind unter ODbL frei und gut für Self-Hosting nutzbar, während von OSMF betriebene Tile- und Nominatim-Endpunkte Best-Effort-Community-Dienste mit Nutzungsgrenzen und ohne Enterprise-SLA-Garantien sind.',
     },
     website: 'https://www.openstreetmap.org',
     logo: '/logos/openstreetmap.svg',
@@ -199,7 +199,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Self-hosted collaborative document editing built from Nextcloud Text plus Nextcloud Office (Collabora integration). It offers strong data-sovereignty and open-source governance, but reliable operations require disciplined patching, hardening, and careful handling of optional external AI/provider integrations.',
     localizedDescriptions: {
-      de: 'Selbst gehostete kollaborative Dokumentbearbeitung auf Basis von Nextcloud Text plus Nextcloud Office (Collabora-Integration). Bietet starke Datensouveraenitaet und Open-Source-Governance, verlangt im Betrieb aber konsequentes Patchen, Hardening und einen bewussten Umgang mit optionalen externen KI-Integrationen.',
+      de: 'Selbst gehostete kollaborative Dokumentbearbeitung auf Basis von Nextcloud Text plus Nextcloud Office (Collabora-Integration). Bietet starke Datensouveränität und Open-Source-Governance, verlangt im Betrieb aber konsequentes Patchen, Hardening und einen bewussten Umgang mit optionalen externen KI-Integrationen.',
     },
     website: 'https://nextcloud.com/office/',
     logo: '/logos/nextcloud.svg',
@@ -221,7 +221,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'French end-to-end encrypted messenger built around mutual identity verification without a mandatory phone-number directory. Olvid open-sources its mobile clients and AWS server core under AGPL, but high-assurance evaluation remains constrained by legacy certification scope and partially stripped enterprise server components.',
     localizedDescriptions: {
-      de: 'Franzoesischer Ende-zu-Ende-verschluesselter Messenger mit gegenseitiger Identitaetsverifikation ohne verpflichtendes Telefonnummern-Adressbuch. Olvid veroeffentlicht mobile Clients und den AWS-Serverkern unter AGPL, doch fuer High-Assurance-Bewertungen bleibt die Evidenz durch aeltere Zertifizierungs-Scope und teilweise gestrippte Enterprise-Serverkomponenten begrenzt.',
+      de: 'Französischer Ende-zu-Ende-verschlüsselter Messenger mit gegenseitiger Identitätsverifikation ohne verpflichtendes Telefonnummern-Adressbuch. Olvid veröffentlicht mobile Clients und den AWS-Serverkern unter AGPL, doch für High-Assurance-Bewertungen bleibt die Evidenz durch ältere Zertifizierungs-Scope und teilweise gestrippte Enterprise-Serverkomponenten begrenzt.',
     },
     website: 'https://olvid.io',
     logo: '/logos/olvid.svg?v=20260212',
@@ -242,7 +242,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Open-source mail client maintained by MZLA/Mozilla for desktop and mobile. Thunderbird is local-first for core mailbox usage and supports open protocols (IMAP/POP3/SMTP), while newer optional Thunderbird Pro services are still early-stage.',
     localizedDescriptions: {
-      de: 'Open-Source-Mail-Client von MZLA/Mozilla fuer Desktop und Mobile. Thunderbird arbeitet fuer die klassische Mailbox-Nutzung local-first und unterstuetzt offene Protokolle (IMAP/POP3/SMTP), waehrend die neueren optionalen Thunderbird-Pro-Dienste noch in einer fruehen Phase sind.',
+      de: 'Open-Source-Mail-Client von MZLA/Mozilla für Desktop und Mobile. Thunderbird arbeitet für die klassische Mailbox-Nutzung local-first und unterstützt offene Protokolle (IMAP/POP3/SMTP), während die neueren optionalen Thunderbird-Pro-Dienste noch in einer frühen Phase sind.',
     },
     website: 'https://www.thunderbird.net',
     logo: '/logos/thunderbird.svg?v=20260212',
@@ -264,7 +264,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Full-featured desktop and mobile email client from Prague with integrated calendar, contacts, tasks, and notes. eM Client supports IMAP, POP3, Exchange, and EWS protocols plus PGP encryption, positioning itself as a cross-platform Outlook replacement. Free tier allows up to two email accounts; paid plans unlock unlimited accounts and commercial use.',
     localizedDescriptions: {
-      de: 'Umfassender Desktop- und mobiler E-Mail-Client aus Prag mit integriertem Kalender, Kontakten, Aufgaben und Notizen. eM Client unterstuetzt IMAP, POP3, Exchange und EWS sowie PGP-Verschluesselung und positioniert sich als plattformuebergreifender Outlook-Ersatz. Die kostenlose Version erlaubt bis zu zwei E-Mail-Konten; bezahlte Plaene bieten unbegrenzte Konten und kommerzielle Nutzung.',
+      de: 'Umfassender Desktop- und mobiler E-Mail-Client aus Prag mit integriertem Kalender, Kontakten, Aufgaben und Notizen. eM Client unterstützt IMAP, POP3, Exchange und EWS sowie PGP-Verschlüsselung und positioniert sich als plattformübergreifender Outlook-Ersatz. Die kostenlose Version erlaubt bis zu zwei E-Mail-Konten; bezahlte Pläne bieten unbegrenzte Konten und kommerzielle Nutzung.',
     },
     website: 'https://www.emclient.com',
     logo: '/logos/em-client.svg',
@@ -281,14 +281,14 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'ai-uses-microsoft-azure',
         text: 'Built-in AI features route data through Microsoft Azure OpenAI, including device identification for license verification. Users concerned about data sovereignty should disable or avoid the AI assistant.',
-        textDe: 'Integrierte KI-Funktionen leiten Daten ueber Microsoft Azure OpenAI, einschliesslich Geraeteidentifikation zur Lizenzueberpruefung. Datenschutzbewusste Nutzer sollten den KI-Assistenten deaktivieren oder meiden.',
+        textDe: 'Integrierte KI-Funktionen leiten Daten über Microsoft Azure OpenAI, einschliesslich Geräteidentifikation zur Lizenzüberprüfung. Datenschutzbewusste Nutzer sollten den KI-Assistenten deaktivieren oder meiden.',
         severity: 'moderate',
         sourceUrl: 'https://www.emclient.com/privacy-policy',
       },
       {
         id: 'postbox-acquisition-discontinuation',
         text: 'eM Client acquired Postbox Inc. in October 2024 and immediately discontinued the Postbox email client, drawing criticism from its user base.',
-        textDe: 'eM Client uebernahm Postbox Inc. im Oktober 2024 und stellte den Postbox-E-Mail-Client umgehend ein, was Kritik der Postbox-Nutzer hervorrief.',
+        textDe: 'eM Client übernahm Postbox Inc. im Oktober 2024 und stellte den Postbox-E-Mail-Client umgehend ein, was Kritik der Postbox-Nutzer hervorrief.',
         severity: 'minor',
         date: '2024-10-23',
         sourceUrl: 'https://support.postbox-inc.com/hc/en-us/articles/26987964800023-eM-Client-Acquisition-FAQ',
@@ -301,7 +301,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'German authenticator app by NetKnights that supports HOTP/TOTP tokens (SHA-1, SHA-256, SHA-512), Google-compatible QR enrollment, and push authentication with privacyIDEA Server, including deployments without Firebase. The mobile app is open source under Apache-2.0 and available at no cost for Android and iOS.',
     localizedDescriptions: {
-      de: 'Deutsche Authenticator-App von NetKnights mit HOTP/TOTP-Token (SHA-1, SHA-256, SHA-512), Google-kompatibler QR-Einrichtung und Push-Authentifizierung mit dem privacyIDEA Server, auch ohne Firebase. Die mobile App ist unter Apache-2.0 quelloffen und kostenlos fuer Android und iOS verfuegbar.',
+      de: 'Deutsche Authenticator-App von NetKnights mit HOTP/TOTP-Token (SHA-1, SHA-256, SHA-512), Google-kompatibler QR-Einrichtung und Push-Authentifizierung mit dem privacyIDEA Server, auch ohne Firebase. Die mobile App ist unter Apache-2.0 quelloffen und kostenlos für Android und iOS verfügbar.',
     },
     website: 'https://netknights.it/en/products/privacyidea-authenticator-app/',
     logo: '/logos/privacyidea-authenticator.png',
@@ -323,7 +323,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Free, open-source two-factor authentication app for Android by Beem Development. Aegis stores all tokens in an AES-256-GCM encrypted vault with optional biometric unlock, supports TOTP and HOTP token types, and allows importing from most other authenticator apps. Available on Google Play and F-Droid.',
     localizedDescriptions: {
-      de: 'Kostenlose, quelloffene Zwei-Faktor-Authentifizierungs-App fuer Android von Beem Development. Aegis speichert alle Token in einem AES-256-GCM-verschluesselten Tresor mit optionaler biometrischer Entsperrung, unterstuetzt TOTP- und HOTP-Token und erlaubt den Import aus den meisten anderen Authenticator-Apps. Verfuegbar bei Google Play und F-Droid.',
+      de: 'Kostenlose, quelloffene Zwei-Faktor-Authentifizierungs-App für Android von Beem Development. Aegis speichert alle Token in einem AES-256-GCM-verschlüsselten Tresor mit optionaler biometrischer Entsperrung, unterstützt TOTP- und HOTP-Token und erlaubt den Import aus den meisten anderen Authenticator-Apps. Verfügbar bei Google Play und F-Droid.',
     },
     website: 'https://getaegis.app',
     logo: '/logos/aegis-authenticator.png',
@@ -344,7 +344,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Open-source two-factor authentication app supporting Android, iOS, and a browser extension for autofilling codes. Developed by a Polish team (Emphie Solutions, Gliwice) and open-sourced under GPL-3.0, though graphics are separately licensed. Operated by dual entities: 2FAS Sp. z o.o. (Poland) and 2FAS Inc. (USA).',
     localizedDescriptions: {
-      de: 'Quelloffene Zwei-Faktor-Authentifizierungs-App fuer Android, iOS und mit Browser-Erweiterung zum automatischen Ausfuellen von Codes. Entwickelt von einem polnischen Team (Emphie Solutions, Gliwice) und unter GPL-3.0 quelloffen, wobei Grafiken separat lizenziert sind. Betrieben durch zwei Gesellschaften: 2FAS Sp. z o.o. (Polen) und 2FAS Inc. (USA).',
+      de: 'Quelloffene Zwei-Faktor-Authentifizierungs-App für Android, iOS und mit Browser-Erweiterung zum automatischen Ausfüllen von Codes. Entwickelt von einem polnischen Team (Emphie Solutions, Gliwice) und unter GPL-3.0 quelloffen, wobei Grafiken separat lizenziert sind. Betrieben durch zwei Gesellschaften: 2FAS Sp. z o.o. (Polen) und 2FAS Inc. (USA).',
     },
     website: 'https://2fas.com',
     logo: '/logos/2fas.png',
@@ -374,7 +374,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Swiss secure cloud storage focused on end-to-end encrypted file sync and sharing for personal and business use. Tresorit offers strong privacy/security positioning and enterprise compliance signals, while operating a proprietary core stack with data-residency and subcontractor tradeoffs that should be reviewed for strict sovereignty requirements.',
     localizedDescriptions: {
-      de: 'Schweizer Cloud-Speicher mit Fokus auf Ende-zu-Ende-verschluesseltes Sync und Sharing fuer private und geschäftliche Nutzung. Tresorit bietet starke Privacy- und Security-Signale fuer regulierte Umgebungen, bleibt aber im Kern proprietaer und bringt Data-Residency- sowie Subprozessor-Trade-offs mit, die bei strengen Souveraenitaetsanforderungen bewusst geprueft werden sollten.',
+      de: 'Schweizer Cloud-Speicher mit Fokus auf Ende-zu-Ende-verschlüsseltes Sync und Sharing für private und geschäftliche Nutzung. Tresorit bietet starke Privacy- und Security-Signale für regulierte Umgebungen, bleibt aber im Kern proprietär und bringt Data-Residency- sowie Subprozessor-Trade-offs mit, die bei strengen Souveränitätsanforderungen bewusst geprüft werden sollten.',
     },
     website: 'https://tresorit.com',
     logo: '/logos/tresorit.svg',
@@ -449,7 +449,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Dutch enterprise payments platform offering gateway, acquiring, risk tooling, and omnichannel processing. Adyen shows strong compliance and engineering maturity, but merchants should review default analytics/risk data collection and reserve/settlement terms for strict privacy and cash-flow requirements.',
     localizedDescriptions: {
-      de: 'Niederlaendische Enterprise-Payments-Plattform mit Gateway-, Acquiring-, Risk- und Omnichannel-Funktionen. Adyen zeigt starke Compliance- und Engineering-Reife, dennoch sollten Haendler standardmaessige Analytics/Risk-Datenerhebung sowie Reserve- und Settlement-Klauseln fuer strenge Datenschutz- und Cashflow-Anforderungen pruefen.',
+      de: 'Niederländische Enterprise-Payments-Plattform mit Gateway-, Acquiring-, Risk- und Omnichannel-Funktionen. Adyen zeigt starke Compliance- und Engineering-Reife, dennoch sollten Händler standardmässige Analytics/Risk-Datenerhebung sowie Reserve- und Settlement-Klauseln für strenge Datenschutz- und Cashflow-Anforderungen prüfen.',
     },
     website: 'https://www.adyen.com',
     logo: '/logos/adyen.svg?v=20260212',
@@ -487,7 +487,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'European digital wallet by EPI (European Payments Initiative), a consortium of 16 major banks, enabling instant account-to-account payments across Europe. Send money using just a phone number or email address, pay at online merchants directly from your bank account, and enjoy real-time SEPA Instant transfers in seconds — all free for consumers.',
     localizedDescriptions: {
-      de: 'Europaeische digitale Wallet von EPI (European Payments Initiative), einem Konsortium aus 16 grossen Banken, fuer sofortige Konto-zu-Konto-Zahlungen in Europa. Geld senden nur mit Telefonnummer oder E-Mail-Adresse, online direkt vom Bankkonto bezahlen und SEPA-Instant-Ueberweisungen in Sekunden nutzen — fuer Verbraucher kostenlos.',
+      de: 'Europäische digitale Wallet von EPI (European Payments Initiative), einem Konsortium aus 16 grossen Banken, für sofortige Konto-zu-Konto-Zahlungen in Europa. Geld senden nur mit Telefonnummer oder E-Mail-Adresse, online direkt vom Bankkonto bezahlen und SEPA-Instant-Überweisungen in Sekunden nutzen — für Verbraucher kostenlos.',
     },
     website: 'https://wero-wallet.eu',
     logo: '/logos/wero.svg?v=20260216',
@@ -586,7 +586,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'The upstream Linux kernel is a globally maintained, GPL-licensed operating-system kernel distributed via kernel.org. It combines transparent review with frequent stable/LTS updates, while real-world security still depends on downstream patch speed and local update discipline.',
     localizedDescriptions: {
-      de: 'Der Upstream-Linux-Kernel ist ein global gepflegter, GPL-lizenzierter Betriebssystem-Kernel, der ueber kernel.org verteilt wird. Er kombiniert transparente Review-Prozesse mit haeufigen Stable-/LTS-Updates, waehrend die reale Sicherheit weiterhin stark von Downstream-Patch-Geschwindigkeit und lokaler Update-Disziplin abhaengt.',
+      de: 'Der Upstream-Linux-Kernel ist ein global gepflegter, GPL-lizenzierter Betriebssystem-Kernel, der über kernel.org verteilt wird. Er kombiniert transparente Review-Prozesse mit häufigen Stable-/LTS-Updates, während die reale Sicherheit weiterhin stark von Downstream-Patch-Geschwindigkeit und lokaler Update-Disziplin abhängt.',
     },
     website: 'https://www.kernel.org',
     logo: '/logos/linux-kernel.svg?v=20260212',
@@ -634,7 +634,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'German government-backed open-source office and collaboration suite developed by ZenDiS (Centre for Digital Sovereignty). openDesk integrates Collabora Online for documents, Nextcloud for file storage, Open-Xchange for email/calendar, Element for messaging, Jitsi for video conferencing, and OpenProject for task management into a single sovereign workplace platform. Primarily aimed at public administration, but available to private individuals as well via the community edition.',
     localizedDescriptions: {
-      de: 'Vom deutschen Staat gefoerdertes Open-Source-Buero- und Kollaborationspaket, entwickelt vom ZenDiS (Zentrum fuer Digitale Souveraenitaet). openDesk integriert Collabora Online fuer Dokumente, Nextcloud fuer Dateispeicherung, Open-Xchange fuer E-Mail/Kalender, Element fuer Messaging, Jitsi fuer Videokonferenzen und OpenProject fuer Aufgabenverwaltung in eine einheitliche souveraene Arbeitsplattform. Primaer auf die oeffentliche Verwaltung ausgerichtet, aber auch fuer Privatpersonen ueber die Community-Edition verfuegbar.',
+      de: 'Vom deutschen Staat gefördertes Open-Source-Büro- und Kollaborationspaket, entwickelt vom ZenDiS (Zentrum für Digitale Souveränität). openDesk integriert Collabora Online für Dokumente, Nextcloud für Dateispeicherung, Open-Xchange für E-Mail/Kalender, Element für Messaging, Jitsi für Videokonferenzen und OpenProject für Aufgabenverwaltung in eine einheitliche souveräne Arbeitsplattform. Primär auf die öffentliche Verwaltung ausgerichtet, aber auch für Privatpersonen über die Community-Edition verfügbar.',
     },
     website: 'https://www.opendesk.eu',
     logo: '/logos/opendesk.svg',
@@ -653,7 +653,7 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'public-administration-focus',
         text: 'openDesk is primarily designed for public administration. The SaaS offering requires stating an organization (minimum 500 users), though a free community edition is available for self-hosting and "private person" can be selected as organization type.',
-        textDe: 'openDesk ist primaer fuer die oeffentliche Verwaltung konzipiert. Das SaaS-Angebot erfordert die Angabe einer Organisation (mindestens 500 Nutzer), wobei eine kostenlose Community-Edition zum Self-Hosting verfuegbar ist und "Privatperson" als Organisationstyp gewaehlt werden kann.',
+        textDe: 'openDesk ist primär für die öffentliche Verwaltung konzipiert. Das SaaS-Angebot erfordert die Angabe einer Organisation (mindestens 500 Nutzer), wobei eine kostenlose Community-Edition zum Self-Hosting verfügbar ist und "Privatperson" als Organisationstyp gewählt werden kann.',
         severity: 'minor',
         sourceUrl: 'https://www.opendesk.eu/en',
       },
@@ -665,7 +665,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Flagship client for the Matrix protocol, an open standard for decentralized, end-to-end encrypted communication. Element offers real-time messaging with rooms, spaces (similar to Discord servers), voice and video calls, and bridges to other platforms. The federated architecture lets users pick any homeserver or self-host while communicating across the entire Matrix network. Other popular clients include FluffyChat, Nheko, and Cinny.',
     localizedDescriptions: {
-      de: 'Vorzeige-Client fuer das Matrix-Protokoll, einen offenen Standard fuer dezentrale, Ende-zu-Ende-verschluesselte Kommunikation. Element bietet Echtzeit-Messaging mit Raeumen, Spaces (aehnlich Discord-Servern), Sprach- und Videoanrufe sowie Bruecken zu anderen Plattformen. Die foederierte Architektur erlaubt Nutzenden, einen beliebigen Homeserver zu waehlen oder selbst zu hosten und dabei mit dem gesamten Matrix-Netzwerk zu kommunizieren. Weitere beliebte Clients sind FluffyChat, Nheko und Cinny.',
+      de: 'Vorzeige-Client für das Matrix-Protokoll, einen offenen Standard für dezentrale, Ende-zu-Ende-verschlüsselte Kommunikation. Element bietet Echtzeit-Messaging mit Räumen, Spaces (ähnlich Discord-Servern), Sprach- und Videoanrufe sowie Brücken zu anderen Plattformen. Die föderierte Architektur erlaubt Nutzenden, einen beliebigen Homeserver zu wählen oder selbst zu hosten und dabei mit dem gesamten Matrix-Netzwerk zu kommunizieren. Weitere beliebte Clients sind FluffyChat, Nheko und Cinny.',
     },
     website: 'https://element.io',
     logo: '/logos/element.svg',
@@ -688,7 +688,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Open-source video conferencing platform for browser-based meetings with chat, screen sharing, and collaborative notes. Jitsi offers a free public instance at meet.jit.si, no account required, and supports self-hosting for teams that want EU-friendly data and infrastructure control.',
     localizedDescriptions: {
-      de: 'Open-Source-Video-Konferenzplattform fuer browserbasierte Meetings mit Chat, Bildschirmfreigabe und kollaborativen Notizen. Jitsi bietet eine kostenlose Oeffentliche Instanz unter meet.jit.si ohne Konto und unterstuetzt Self-Hosting fuer Teams, die EU-konforme Daten- und Infrastrukturkontrolle wuenschen.',
+      de: 'Open-Source-Video-Konferenzplattform für browserbasierte Meetings mit Chat, Bildschirmfreigabe und kollaborativen Notizen. Jitsi bietet eine kostenlose öffentliche Instanz unter meet.jit.si ohne Konto und unterstützt Self-Hosting für Teams, die EU-konforme Daten- und Infrastrukturkontrolle wünschen.',
     },
     website: 'https://jitsi.org',
     country: 'fr',
@@ -748,7 +748,7 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'maintainer-employed-by-bitwarden',
         text: 'One of the active maintainers is employed by Bitwarden, Inc., a US-based company. Vaultwarden remains an independent open-source project, but the employment relationship could theoretically influence development direction.',
-        textDe: 'Einer der aktiven Maintainer ist bei Bitwarden, Inc., einem US-amerikanischen Unternehmen, angestellt. Vaultwarden bleibt ein unabhaengiges Open-Source-Projekt, jedoch koennte das Beschaeftigungsverhaeltnis theoretisch die Entwicklungsrichtung beeinflussen.',
+        textDe: 'Einer der aktiven Maintainer ist bei Bitwarden, Inc., einem US-amerikanischen Unternehmen, angestellt. Vaultwarden bleibt ein unabhängiges Open-Source-Projekt, jedoch könnte das Beschäftigungsverhältnis theoretisch die Entwicklungsrichtung beeinflussen.',
         severity: 'moderate',
         sourceUrl: 'https://github.com/dani-garcia/vaultwarden#readme',
       },
@@ -761,7 +761,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Censorship-resistant peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor, with privacy built-in.',
     localizedDescriptions: {
-      de: 'Zensurresistente Peer-to-Peer-Nachrichtenuebermittlung, die zentralisierte Server umgeht. Verbindung ueber Bluetooth, WLAN oder Tor, mit integrierter Datenschutzfunktion.',
+      de: 'Zensurresistente Peer-to-Peer-Nachrichtenübermittlung, die zentralisierte Server umgeht. Verbindung über Bluetooth, WLAN oder Tor, mit integrierter Datenschutzfunktion.',
     },
     website: 'https://briarproject.org/',
     country: 'gb',
@@ -884,7 +884,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Austrian encrypted email service with zero-access encryption (AES-GCM-256, RSA-OAEP-4096 key sharing) hosted on Swiss infrastructure. Offers AI-powered email composition, alias addresses, 25 GB storage growing by 2 GB annually, and organization features with custom domains. The service is fully proprietary with no published independent security audit and does not support PGP.',
     localizedDescriptions: {
-      de: 'Verschluesselter E-Mail-Dienst aus Oesterreich mit Zero-Access-Verschluesselung (AES-GCM-256, RSA-OAEP-4096) auf Schweizer Infrastruktur. Bietet KI-gestuetzte E-Mail-Erstellung, Alias-Adressen, 25 GB Speicher (jaehrlich um 2 GB wachsend) und Organisationsfunktionen mit eigenen Domains. Der Dienst ist vollstaendig proprietaer, ohne veroeffentlichtes unabhaengiges Sicherheitsaudit und ohne PGP-Unterstuetzung.',
+      de: 'Verschlüsselter E-Mail-Dienst aus Österreich mit Zero-Access-Verschlüsselung (AES-GCM-256, RSA-OAEP-4096) auf Schweizer Infrastruktur. Bietet KI-gestützte E-Mail-Erstellung, Alias-Adressen, 25 GB Speicher (jährlich um 2 GB wachsend) und Organisationsfunktionen mit eigenen Domains. Der Dienst ist vollständig proprietär, ohne veröffentlichtes unabhängiges Sicherheitsaudit und ohne PGP-Unterstützung.',
     },
     website: 'https://black.com',
     logo: '/logos/black-com.svg',
@@ -901,21 +901,21 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'proprietary-no-audit',
         text: 'Fully proprietary and closed-source with no published independent security audit. Encryption claims (AES-GCM-256, RSA-OAEP-4096) cannot be independently verified.',
-        textDe: 'Vollstaendig proprietaer und Closed-Source ohne veroeffentlichtes unabhaengiges Sicherheitsaudit. Verschluesselungsangaben (AES-GCM-256, RSA-OAEP-4096) koennen nicht unabhaengig verifiziert werden.',
+        textDe: 'Vollständig proprietär und Closed-Source ohne veröffentlichtes unabhängiges Sicherheitsaudit. Verschlüsselungsangaben (AES-GCM-256, RSA-OAEP-4096) können nicht unabhängig verifiziert werden.',
         severity: 'major' as const,
         sourceUrl: 'https://discuss.privacyguides.net/t/encrypted-mail-black-com/21327',
       },
       {
         id: 'no-pgp-support',
         text: 'Does not support PGP/GPG, limiting interoperability with other encrypted email ecosystems.',
-        textDe: 'Keine PGP/GPG-Unterstuetzung, was die Interoperabilitaet mit anderen verschluesselten E-Mail-Systemen einschraenkt.',
+        textDe: 'Keine PGP/GPG-Unterstützung, was die Interoperabilität mit anderen verschlüsselten E-Mail-Systemen einschränkt.',
         severity: 'moderate' as const,
         sourceUrl: 'https://discuss.privacyguides.net/t/encrypted-mail-black-com/21327',
       },
       {
         id: 'founder-sec-cftc-regulatory-history',
         text: 'Founder Patrick Brunner was subject to SEC and CFTC civil enforcement actions in 2018 for operating an unregistered crypto trading platform (1Broker). This was a regulatory compliance case (not fraud): no anti-fraud charges were filed, no criminal conviction occurred, and all customer funds were returned. Total civil settlement was approximately $990,000.',
-        textDe: 'Gruender Patrick Brunner war 2018 Gegenstand ziviler SEC- und CFTC-Durchsetzungsmassnahmen wegen Betrieb einer nicht registrierten Krypto-Handelsplattform (1Broker). Es handelte sich um einen Regulierungsverstoss (kein Betrug): keine Betrugsanklage, keine strafrechtliche Verurteilung, alle Kundengelder wurden zurueckgegeben. Zivilrechtliche Gesamtvereinbarung ca. 990.000 USD.',
+        textDe: 'Gründer Patrick Brunner war 2018 Gegenstand ziviler SEC- und CFTC-Durchsetzungsmassnahmen wegen Betrieb einer nicht registrierten Krypto-Handelsplattform (1Broker). Es handelte sich um einen Regulierungsverstoss (kein Betrug): keine Betrugsanklage, keine strafrechtliche Verurteilung, alle Kundengelder wurden zurückgegeben. Zivilrechtliche Gesamtvereinbarung ca. 990.000 USD.',
         severity: 'moderate' as const,
         sourceUrl: 'https://www.sec.gov/newsroom/press-releases/2018-218',
       },
@@ -948,7 +948,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'German cloud hosting provider offering VPS, dedicated servers, and S3-compatible object storage at highly competitive prices. Founded in 2003 in Munich with over 20 years of operation and data centers across Europe, the US, and Asia.',
     localizedDescriptions: {
-      de: 'Deutscher Cloud-Hosting-Anbieter mit VPS, dedizierten Servern und S3-kompatiblem Objektspeicher zu sehr wettbewerbsfaehigen Preisen. 2003 in Muenchen gegruendet, mit ueber 20 Jahren Betrieb und Rechenzentren in Europa, den USA und Asien.',
+      de: 'Deutscher Cloud-Hosting-Anbieter mit VPS, dedizierten Servern und S3-kompatiblem Objektspeicher zu sehr wettbewerbsfähigen Preisen. 2003 in München gegründet, mit über 20 Jahren Betrieb und Rechenzentren in Europa, den USA und Asien.',
     },
     website: 'https://contabo.com',
     logo: '/logos/contabo.svg',
@@ -966,7 +966,7 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'kkr-majority-ownership',
         text: 'Contabo has been majority-owned by KKR, a US-based private equity firm, since 2022. While the company remains operationally German (GmbH, Munich HQ), ultimate financial control rests with a US entity.',
-        textDe: 'Contabo befindet sich seit 2022 mehrheitlich im Besitz von KKR, einer US-amerikanischen Private-Equity-Gesellschaft. Obwohl das Unternehmen operativ deutsch bleibt (GmbH, Hauptsitz Muenchen), liegt die finanzielle Kontrolle bei einem US-Unternehmen.',
+        textDe: 'Contabo befindet sich seit 2022 mehrheitlich im Besitz von KKR, einer US-amerikanischen Private-Equity-Gesellschaft. Obwohl das Unternehmen operativ deutsch bleibt (GmbH, Hauptsitz München), liegt die finanzielle Kontrolle bei einem US-Unternehmen.',
         severity: 'major',
         date: '2022-06-08',
         sourceUrl: 'https://media.kkr.com/rss-feed/news-release?news_id=6e034e18-6db9-4f06-b777-6ebda65de47d&type=1',
@@ -979,7 +979,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Spanish open-source cloud storage with zero-knowledge AES-256 and post-quantum Kyber-512 encryption. Internxt offers Drive, Send, and VPN services, with both client and server code published under AGPL-3.0. Independently audited by Securitum and winner of the Spanish Data Protection Agency Award.',
     localizedDescriptions: {
-      de: 'Spanischer Open-Source-Cloud-Speicher mit Zero-Knowledge-AES-256- und Post-Quanten-Kyber-512-Verschluesselung. Internxt bietet Drive, Send und VPN, wobei Client- und Server-Code unter AGPL-3.0 veroeffentlicht sind. Unabhaengig von Securitum geprueft und Gewinner des Preises der spanischen Datenschutzbehoerde.',
+      de: 'Spanischer Open-Source-Cloud-Speicher mit Zero-Knowledge-AES-256- und Post-Quanten-Kyber-512-Verschlüsselung. Internxt bietet Drive, Send und VPN, wobei Client- und Server-Code unter AGPL-3.0 veröffentlicht sind. Unabhängig von Securitum geprüft und Gewinner des Preises der spanischen Datenschutzbehörde.',
     },
     website: 'https://internxt.com',
     logo: '/logos/internxt.svg',
@@ -998,14 +998,14 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'webdav-cli-removal-2025',
         text: 'In February 2025 Internxt removed CLI, WebDAV, and Rclone access from legacy Premium Lifetime plan subscribers, requiring an upgrade to the Ultimate plan. After community backlash the features were partially restored, but native Rclone remains gated behind the highest tier.',
-        textDe: 'Im Februar 2025 entfernte Internxt CLI-, WebDAV- und Rclone-Zugang fuer Legacy-Premium-Lifetime-Abonnenten und verlangte ein Upgrade auf den Ultimate-Plan. Nach Community-Protest wurden die Funktionen teilweise wiederhergestellt, nativer Rclone-Zugang bleibt aber hinter der hoechsten Stufe.',
+        textDe: 'Im Februar 2025 entfernte Internxt CLI-, WebDAV- und Rclone-Zugang für Legacy-Premium-Lifetime-Abonnenten und verlangte ein Upgrade auf den Ultimate-Plan. Nach Community-Protest wurden die Funktionen teilweise wiederhergestellt, nativer Rclone-Zugang bleibt aber hinter der höchsten Stufe.',
         severity: 'moderate',
         date: '2025-02-01',
       },
       {
         id: 'low-transfer-speeds',
         text: 'Independent benchmarks (Cloudwards, EXPERTE) consistently rank Internxt near the bottom for upload and download speeds among cloud storage providers.',
-        textDe: 'Unabhaengige Benchmarks (Cloudwards, EXPERTE) stufen Internxt bei Upload- und Download-Geschwindigkeiten durchgehend im unteren Bereich unter Cloud-Speicher-Anbietern ein.',
+        textDe: 'Unabhängige Benchmarks (Cloudwards, EXPERTE) stufen Internxt bei Upload- und Download-Geschwindigkeiten durchgehend im unteren Bereich unter Cloud-Speicher-Anbietern ein.',
         severity: 'moderate',
       },
     ],
@@ -1016,7 +1016,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Norwegian cloud storage and backup service that stores all data exclusively in Norway on servers powered by 100% renewable hydroelectric energy. Offers unlimited personal backup, file sync, photo management with AI search, and cross-platform support — all under strict Norwegian and EU privacy laws.',
     localizedDescriptions: {
-      de: 'Norwegischer Cloud-Speicher- und Backup-Dienst, der alle Daten ausschliesslich in Norwegen auf Servern mit 100 % erneuerbarer Wasserkraft speichert. Bietet unbegrenztes persoenliches Backup, Dateisynchronisierung, Fotoverwaltung mit KI-Suche und plattformuebergreifende Unterstuetzung — alles unter strengen norwegischen und EU-Datenschutzgesetzen.',
+      de: 'Norwegischer Cloud-Speicher- und Backup-Dienst, der alle Daten ausschliesslich in Norwegen auf Servern mit 100 % erneuerbarer Wasserkraft speichert. Bietet unbegrenztes persönliches Backup, Dateisynchronisierung, Fotoverwaltung mit KI-Suche und plattformübergreifende Unterstützung — alles unter strengen norwegischen und EU-Datenschutzgesetzen.',
     },
     website: 'https://jottacloud.com',
     logo: '/logos/jottacloud.svg',
@@ -1033,13 +1033,13 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'no-e2e-encryption',
         text: 'Jottacloud manages all encryption keys server-side (AES-256 at rest, TLS in transit) and does not support end-to-end or zero-knowledge encryption. The provider can technically access stored files.',
-        textDe: 'Jottacloud verwaltet alle Verschluesselungsschluessel serverseitig (AES-256 im Ruhezustand, TLS bei der Uebertragung) und unterstuetzt keine Ende-zu-Ende- oder Zero-Knowledge-Verschluesselung. Der Anbieter kann technisch auf gespeicherte Dateien zugreifen.',
+        textDe: 'Jottacloud verwaltet alle Verschlüsselungsschlüssel serverseitig (AES-256 im Ruhezustand, TLS bei der Übertragung) und unterstützt keine Ende-zu-Ende- oder Zero-Knowledge-Verschlüsselung. Der Anbieter kann technisch auf gespeicherte Dateien zugreifen.',
         severity: 'major',
       },
       {
         id: 'telenor-joint-venture-2025',
         text: 'Since April 2025 Jottacloud is co-owned 50/50 by Hawk Infinity Software and Telenor Amp (investment arm of Norwegian state-majority telco Telenor). Founding CEO Roland Rabben remains in charge.',
-        textDe: 'Seit April 2025 gehoert Jottacloud je zur Haelfte Hawk Infinity Software und Telenor Amp (Investmentarm des staatlich mehrheitlich norwegischen Telekommunikationsunternehmens Telenor). Gruender-CEO Roland Rabben bleibt in der Fuehrung.',
+        textDe: 'Seit April 2025 gehört Jottacloud je zur Hälfte Hawk Infinity Software und Telenor Amp (Investmentarm des staatlich mehrheitlich norwegischen Telekommunikationsunternehmens Telenor). Gründer-CEO Roland Rabben bleibt in der Führung.',
         severity: 'moderate',
         date: '2025-04-30',
         sourceUrl: 'https://www.globenewswire.com/news-release/2025/03/19/3045533/0/en/Jottacloud-and-Telenor-Software-Lab-Merge-to-Build-a-Strong-Norwegian-Challenger-in-Cloud-Storage.html',
@@ -1057,7 +1057,7 @@ export const manualAlternatives: Alternative[] = [
     name: 'GrapheneOS',
     description: 'Privacy and security focused mobile operating system with Android app compatibility. Developed as a non-profit open-source project, GrapheneOS hardens the Android Open Source Project with exploit mitigations, sandboxed Google Play, and a strict permission model.',
     localizedDescriptions: {
-      de: 'Datenschutz- und sicherheitsorientiertes mobiles Betriebssystem mit Android-App-Kompatibilitaet. GrapheneOS wird als gemeinnuetziges Open-Source-Projekt entwickelt und haertet das Android Open Source Project mit Exploit-Absicherungen, sandboxed Google Play und einem strikten Berechtigungsmodell.',
+      de: 'Datenschutz- und sicherheitsorientiertes mobiles Betriebssystem mit Android-App-Kompatibilität. GrapheneOS wird als gemeinnütziges Open-Source-Projekt entwickelt und härtet das Android Open Source Project mit Exploit-Absicherungen, sandboxed Google Play und einem strikten Berechtigungsmodell.',
     },
     website: 'https://grapheneos.org',
     logo: '/logos/grapheneos.svg',
@@ -1079,7 +1079,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'German passwordless login manager that uses smartphones as hardware security keys via Secure Enclave / TPM chips. Founded by TU Braunschweig security researchers (creators of OpenKeychain), heylogin offers end-to-end encrypted credential storage with ISO 27001 certification and EU-only data processing on Hetzner servers in Germany.',
     localizedDescriptions: {
-      de: 'Deutscher passwortloser Login-Manager, der Smartphones als Hardware-Sicherheitsschluessel ueber Secure Enclave / TPM-Chips nutzt. Gegruendet von TU-Braunschweig-Sicherheitsforschern (Entwickler von OpenKeychain), bietet heylogin Ende-zu-Ende-verschluesselte Anmeldedatenverwaltung mit ISO-27001-Zertifizierung und ausschliesslich EU-basierter Datenverarbeitung auf Hetzner-Servern in Deutschland.',
+      de: 'Deutscher passwortloser Login-Manager, der Smartphones als Hardware-Sicherheitsschlüssel über Secure Enclave / TPM-Chips nutzt. Gegründet von TU-Braunschweig-Sicherheitsforschern (Entwickler von OpenKeychain), bietet heylogin Ende-zu-Ende-verschlüsselte Anmeldedatenverwaltung mit ISO-27001-Zertifizierung und ausschliesslich EU-basierter Datenverarbeitung auf Hetzner-Servern in Deutschland.',
     },
     website: 'https://www.heylogin.com',
     logo: '/logos/heylogin.svg',
@@ -1096,13 +1096,13 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'closed-source-no-audit',
         text: 'heylogin is fully closed-source despite the founders\' strong open-source backgrounds (OpenKeychain, K-9 Mail). No independent third-party security audit has been publicly disclosed. Security claims rely on the published whitepaper and ISO 27001 certification.',
-        textDe: 'heylogin ist vollstaendig Closed Source, trotz der starken Open-Source-Hintergruende der Gruender (OpenKeychain, K-9 Mail). Es wurde kein unabhaengiges Sicherheitsaudit oeffentlich bekanntgegeben. Sicherheitsaussagen stuetzen sich auf das veroeffentlichte Whitepaper und die ISO-27001-Zertifizierung.',
+        textDe: 'heylogin ist vollständig Closed Source, trotz der starken Open-Source-Hintergründe der Gründer (OpenKeychain, K-9 Mail). Es wurde kein unabhängiges Sicherheitsaudit öffentlich bekanntgegeben. Sicherheitsaussagen stützen sich auf das veröffentlichte Whitepaper und die ISO-27001-Zertifizierung.',
         severity: 'moderate',
       },
       {
         id: 'smartphone-dependency',
         text: 'Requires a paired smartphone to function. If the phone is lost or damaged, recovery options are limited.',
-        textDe: 'Erfordert ein gekoppeltes Smartphone zur Nutzung. Bei Verlust oder Beschaedigung des Telefons sind die Wiederherstellungsoptionen eingeschraenkt.',
+        textDe: 'Erfordert ein gekoppeltes Smartphone zur Nutzung. Bei Verlust oder Beschädigung des Telefons sind die Wiederherstellungsoptionen eingeschränkt.',
         severity: 'minor',
       },
     ],
@@ -1113,7 +1113,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'German hosting provider offering web hosting, VPS, and dedicated root servers with fixed-price contracts and ISO 27001 certification. Owned by Austrian parent company Anexia since 2016, keeping the entire ownership chain within Europe. Data centers in Nuremberg (Germany) and Vienna (Austria), powered by 100% green electricity.',
     localizedDescriptions: {
-      de: 'Deutscher Hosting-Anbieter mit Webhosting, VPS und dedizierten Root-Servern zu Festpreisen und ISO-27001-Zertifizierung. Seit 2016 im Besitz der oesterreichischen Muttergesellschaft Anexia, womit die gesamte Eigentuemerstruktur innerhalb Europas verbleibt. Rechenzentren in Nuernberg (Deutschland) und Wien (Oesterreich), betrieben mit 100 % Oekostrom.',
+      de: 'Deutscher Hosting-Anbieter mit Webhosting, VPS und dedizierten Root-Servern zu Festpreisen und ISO-27001-Zertifizierung. Seit 2016 im Besitz der österreichischen Muttergesellschaft Anexia, womit die gesamte Eigentümerstruktur innerhalb Europas verbleibt. Rechenzentren in Nürnberg (Deutschland) und Wien (Österreich), betrieben mit 100 % Ökostrom.',
     },
     website: 'https://www.netcup.com',
     logo: '/logos/netcup.svg',
@@ -1133,7 +1133,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Open-source application firewall and network monitor that gives granular control over device traffic, with built-in tracker/ad blocking and secure DNS (DoH/DoT). Developed by Austrian company Safing ICS Technologies under GPLv3, with the optional SPN (Safing Privacy Network) offering multi-hop privacy routing. Audited by Cure53.',
     localizedDescriptions: {
-      de: 'Open-Source-Anwendungs-Firewall und Netzwerkmonitor mit granularer Kontrolle ueber den Geraete-Datenverkehr, integriertem Tracker-/Werbeblocker und sicherem DNS (DoH/DoT). Entwickelt von der oesterreichischen Safing ICS Technologies GmbH unter GPLv3, mit dem optionalen SPN (Safing Privacy Network) fuer Multi-Hop-Privatsphaere-Routing. Von Cure53 auditiert.',
+      de: 'Open-Source-Anwendungs-Firewall und Netzwerkmonitor mit granularer Kontrolle über den Geräte-Datenverkehr, integriertem Tracker-/Werbeblocker und sicherem DNS (DoH/DoT). Entwickelt von der österreichischen Safing ICS Technologies GmbH unter GPLv3, mit dem optionalen SPN (Safing Privacy Network) für Multi-Hop-Privatsphäre-Routing. Von Cure53 auditiert.',
     },
     website: 'https://safing.io',
     logo: '/logos/safing-portmaster.png',
@@ -1152,7 +1152,7 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'ivpn-acquisition-2024',
         text: 'Safing was acquired by IVPN (Gibraltar-registered VPN provider) in December 2024. The original founders stepped back to advisory roles. Products remain open source and the Austrian company registration is unchanged, but operational control has shifted to IVPN.',
-        textDe: 'Safing wurde im Dezember 2024 von IVPN (in Gibraltar registrierter VPN-Anbieter) uebernommen. Die urspruenglichen Gruender wechselten in beratende Rollen. Die Produkte bleiben quelloffen und die oesterreichische Firmenregistrierung besteht fort, doch die operative Kontrolle liegt nun bei IVPN.',
+        textDe: 'Safing wurde im Dezember 2024 von IVPN (in Gibraltar registrierter VPN-Anbieter) übernommen. Die ursprünglichen Gründer wechselten in beratende Rollen. Die Produkte bleiben quelloffen und die österreichische Firmenregistrierung besteht fort, doch die operative Kontrolle liegt nun bei IVPN.',
         severity: 'moderate',
         date: '2024-12-03',
         sourceUrl: 'https://safing.io/blog/2024/12/03/a-new-chapter-begins/',
@@ -1165,7 +1165,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Free personal navigation app from Dutch-based HERE Technologies, offering turn-by-turn navigation, real-time traffic, offline maps, and multi-modal route planning (car, transit, bike, walk). Available on web, iOS, and Android with CarPlay and Android Auto support.',
     localizedDescriptions: {
-      de: 'Kostenlose Navigations-App von HERE Technologies aus den Niederlanden mit Echtzeit-Verkehrsinformationen, Offline-Karten und multimodaler Routenplanung (Auto, OEPNV, Fahrrad, zu Fuss). Verfuegbar als Web-App sowie fuer iOS und Android mit CarPlay- und Android-Auto-Unterstuetzung.',
+      de: 'Kostenlose Navigations-App von HERE Technologies aus den Niederlanden mit Echtzeit-Verkehrsinformationen, Offline-Karten und multimodaler Routenplanung (Auto, ÖPNV, Fahrrad, zu Fuss). Verfügbar als Web-App sowie für iOS und Android mit CarPlay- und Android-Auto-Unterstützung.',
     },
     website: 'https://www.here.com/products/wego',
     logo: '/logos/herewego.svg',
@@ -1186,7 +1186,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'End-to-end encrypted messenger that protects your private data. A decentralized app designed, built, and operated by a global community of privacy experts, using onion routing to hide IP addresses.',
     localizedDescriptions: {
-      de: 'Ende-zu-Ende verschluesselter Messenger zum Schutz persoenlicher Daten. Eine dezentrale App, die von einer globalen Community aus Privatsphaere-Experten entworfen, entwickelt und betrieben wird, mit Onion-Routing zum Schutz der IP-Adresse.',
+      de: 'Ende-zu-Ende verschlüsselter Messenger zum Schutz persönlicher Daten. Eine dezentrale App, die von einer globalen Community aus Privatsphäre-Experten entworfen, entwickelt und betrieben wird, mit Onion-Routing zum Schutz der IP-Adresse.',
     },
     website: 'https://getsession.org/',
     country: 'ch',
@@ -1204,7 +1204,7 @@ export const manualAlternatives: Alternative[] = [
       {
         id: 'australian-origin-2024-relocation',
         text: 'Session was originally developed in Australia by the Oxen Privacy Tech Foundation. It relocated to Switzerland (Zug) in November 2024 after police pressure. The development team may still be largely Australian-based.',
-        textDe: 'Session wurde urspruenglich in Australien von der Oxen Privacy Tech Foundation entwickelt. Nach Druck durch Strafverfolgungsbehoerden wurde das Projekt im November 2024 in die Schweiz (Zug) verlegt. Das Entwicklungsteam koennte weiterhin groesstenteils in Australien ansaessig sein.',
+        textDe: 'Session wurde ursprünglich in Australien von der Oxen Privacy Tech Foundation entwickelt. Nach Druck durch Strafverfolgungsbehörden wurde das Projekt im November 2024 in die Schweiz (Zug) verlegt. Das Entwicklungsteam könnte weiterhin grösstenteils in Australien ansässig sein.',
         severity: 'minor',
         date: '2024-11-01',
         sourceUrl: 'https://getsession.org/blog/introducing-the-session-technology-foundation',
@@ -1240,7 +1240,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'GDPR-compliant video conferencing platform from Berlin, developed by the Heinlein Group (also behind mailbox.org). OpenTalk offers breakout rooms, polls, whiteboards, and moderation tools, with deployment options for on-premises or SaaS on German servers. The Community Edition is open source under EUPL-1.2, while the Enterprise Edition adds phone dial-in, audit-proof voting, and Kubernetes scaling.',
     localizedDescriptions: {
-      de: 'DSGVO-konforme Videokonferenzplattform aus Berlin, entwickelt von der Heinlein Gruppe (auch hinter mailbox.org). OpenTalk bietet Breakout-Raeume, Abstimmungen, Whiteboards und Moderationswerkzeuge, mit Betriebsoptionen fuer On-Premises oder SaaS auf deutschen Servern. Die Community Edition ist unter EUPL-1.2 quelloffen, waehrend die Enterprise Edition Telefoneinwahl, revisionssichere Abstimmungen und Kubernetes-Skalierung ergaenzt.',
+      de: 'DSGVO-konforme Videokonferenzplattform aus Berlin, entwickelt von der Heinlein Gruppe (auch hinter mailbox.org). OpenTalk bietet Breakout-Räume, Abstimmungen, Whiteboards und Moderationswerkzeuge, mit Betriebsoptionen für On-Premises oder SaaS auf deutschen Servern. Die Community Edition ist unter EUPL-1.2 quelloffen, während die Enterprise Edition Telefoneinwahl, revisionssichere Abstimmungen und Kubernetes-Skalierung ergänzt.',
     },
     website: 'https://opentalk.eu',
     country: 'de',
@@ -1261,7 +1261,7 @@ export const manualAlternatives: Alternative[] = [
     description:
       'Decentralized, open-source, end-to-end encrypted messenger without unique user identifiers. Uses double-ratchet E2E encryption and operates without any user IDs, offering strong metadata privacy.',
     localizedDescriptions: {
-      de: 'Dezentraler, quelloffener, Ende-zu-Ende verschluesselter Messenger ohne eindeutige Benutzerkennungen. Verwendet Double-Ratchet-E2E-Verschluesselung und arbeitet ohne jegliche Benutzer-IDs fuer starken Metadatenschutz.',
+      de: 'Dezentraler, quelloffener, Ende-zu-Ende verschlüsselter Messenger ohne eindeutige Benutzerkennungen. Verwendet Double-Ratchet-E2E-Verschlüsselung und arbeitet ohne jegliche Benutzer-IDs für starken Metadatenschutz.',
     },
     website: 'https://simplex.chat/',
     logo: '/logos/simplex.svg',

@@ -90,7 +90,7 @@
   /* Layout */
   --header-height: 4rem;
   --footer-height: 3.5rem;
-  --max-content-width: 1200px;
+  --max-content-width: 1400px;
 }
 
 /* Reset and base styles */
@@ -291,8 +291,8 @@ button:disabled {
 
 @media (min-width: 768px) {
   .main-content {
-    padding: var(--spacing-xl);
-    padding-bottom: calc(var(--footer-height) + var(--spacing-xl));
+    padding: var(--spacing-lg);
+    padding-bottom: calc(var(--footer-height) + var(--spacing-lg));
   }
 }
 
@@ -367,7 +367,7 @@ button:disabled {
   align-items: center;
   justify-content: center;
   padding: var(--spacing-lg);
-  max-width: 800px;
+  max-width: 1100px;
   margin: 0 auto;
   text-align: center;
 }
@@ -415,6 +415,7 @@ button:disabled {
   color: var(--text-secondary);
   margin-bottom: var(--spacing-md);
   line-height: 1.7;
+  max-width: 800px;
 }
 
 @media (min-width: 768px) {
@@ -677,6 +678,33 @@ button:disabled {
   font-size: var(--font-size-xs);
   color: var(--accent-secondary);
   opacity: 0.8;
+  width: 100%;
+  text-align: left;
+}
+
+.landing-category-replaces-label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: 500;
+}
+
+.landing-category-giants-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.landing-category-giants-list li {
+  padding: 0.1rem 0;
+  color: var(--text-secondary);
+}
+
+.landing-category-giants-list li::before {
+  content: '–';
+  margin-right: 0.35rem;
+  color: var(--accent-secondary);
+  opacity: 0.6;
 }
 
 /* Landing Values */
@@ -854,12 +882,6 @@ button:disabled {
 @media (min-width: 768px) {
   .browse-page {
     padding: var(--spacing-lg);
-  }
-}
-
-@media (min-width: 1024px) {
-  .browse-page {
-    padding: var(--spacing-xl);
   }
 }
 

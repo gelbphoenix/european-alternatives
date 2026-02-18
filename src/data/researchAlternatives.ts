@@ -474,7 +474,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://www.infomaniak.com/en/ksuite/kdrive",
     "description": "Swiss cloud storage by Infomaniak with 15 GB free and integrated online office tools. kDrive data is hosted in Swiss data centers operated by Infomaniak, while the open-source footprint is focused on clients and regular storage is not end-to-end zero-knowledge encrypted by default.",
     "localizedDescriptions": {
-      "de": "Schweizer Cloud-Speicher von Infomaniak mit 15 GB gratis und integrierten Online-Office-Tools. kDrive-Daten liegen in von Infomaniak betriebenen Schweizer Rechenzentren; quelloffen sind vor allem die Clients, waehrend regulaerer Speicher standardmaessig nicht Ende-zu-Ende- bzw. Zero-Knowledge-verschluesselt ist."
+      "de": "Schweizer Cloud-Speicher von Infomaniak mit 15 GB gratis und integrierten Online-Office-Tools. kDrive-Daten liegen in von Infomaniak betriebenen Schweizer Rechenzentren; quelloffen sind vor allem die Clients, während regulärer Speicher standardmässig nicht Ende-zu-Ende- bzw. Zero-Knowledge-verschlüsselt ist."
     },
     "isOpenSource": true,
     "openSourceLevel": "partial",
@@ -508,7 +508,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://www.ionos.com",
     "description": "German hosting and cloud provider with EU jurisdiction, public-company governance, and strong assurance signals including ISO 27001/BSI certifications and a public cloud vulnerability register. Key trust caveats remain around pricing and renewal dynamics, no official public bug bounty program, and privacy-policy language that allows AI-related processing and possible international data transfers.",
     "localizedDescriptions": {
-      "de": "Deutscher Hosting- und Cloud-Anbieter mit EU-Jurisdiktion, boersennotierter Governance und starken Assurance-Signalen inklusive ISO-27001-/BSI-Zertifizierungen sowie einem oeffentlichen Cloud-Schwachstellenregister. Relevante Vertrauensvorbehalte bleiben bei Preis- und Verlaengerungsdynamik, fehlendem offiziellem oeffentlichem Bug-Bounty-Programm sowie Datenschutzklauseln zu KI-bezogener Verarbeitung und moeglichen internationalen Datentransfers."
+      "de": "Deutscher Hosting- und Cloud-Anbieter mit EU-Jurisdiktion, börsennotierter Governance und starken Assurance-Signalen inklusive ISO-27001-/BSI-Zertifizierungen sowie einem öffentlichen Cloud-Schwachstellenregister. Relevante Vertrauensvorbehalte bleiben bei Preis- und Verlängerungsdynamik, fehlendem offiziellem öffentlichem Bug-Bounty-Programm sowie Datenschutzklauseln zu KI-bezogener Verarbeitung und möglichen internationalen Datentransfers."
     },
     "isOpenSource": false,
     "openSourceLevel": "none",
@@ -746,7 +746,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://joinmastodon.org",
     "description": "German-founded, AGPL-licensed federated social platform where independent servers interoperate via ActivityPub. Mastodon removes ad-driven ranking by default, while privacy and moderation practices depend on the instance you choose.",
     "localizedDescriptions": {
-      "de": "Deutsch gegruendete, AGPL-lizenzierte foederierte Social-Plattform, bei der unabhaengige Server ueber ActivityPub zusammenarbeiten. Mastodon verzichtet standardmaessig auf werbegetriebenes Ranking, waehrend Datenschutz und Moderation von der gewaehlten Instanz abhaengen."
+      "de": "Deutsch gegründete, AGPL-lizenzierte föderierte Social-Plattform, bei der unabhängige Server über ActivityPub zusammenarbeiten. Mastodon verzichtet standardmässig auf werbegetriebenes Ranking, während Datenschutz und Moderation von der gewählten Instanz abhängen."
     },
     "isOpenSource": true,
     "openSourceLevel": "full",
@@ -812,7 +812,7 @@ export const researchAlternatives: Alternative[] = [
     "logo": "/logos/mollie.svg?v=20260212",
     "description": "Dutch payment service provider and regulated e-money institution focused on European merchants, with broad local-method coverage, API tooling, and public status transparency. Core tradeoffs are typical PSP constraints (reserves/termination mechanics), AI-related processing language in privacy terms, and security exposure in popular third-party plugin integrations if patching is delayed.",
     "localizedDescriptions": {
-      "de": "Niederlaendischer Zahlungsdienstleister und reguliertes E-Geld-Institut mit Fokus auf europaeische Haendler, breiter lokaler Zahlungsmethoden-Abdeckung, API-Tooling und oeffentlicher Status-Transparenz. Zentrale Trade-offs sind typische PSP-Einschraenkungen (Reserven/Kuendigungsmechanik), KI-bezogene Verarbeitungszwecke in den Privacy-Texten sowie Sicherheitsrisiken in populaeren Drittanbieter-Plugin-Integrationen bei verzoegertem Patchen."
+      "de": "Niederländischer Zahlungsdienstleister und reguliertes E-Geld-Institut mit Fokus auf europäische Händler, breiter lokaler Zahlungsmethoden-Abdeckung, API-Tooling und öffentlicher Status-Transparenz. Zentrale Trade-offs sind typische PSP-Einschränkungen (Reserven/Kündigungsmechanik), KI-bezogene Verarbeitungszwecke in den Privacy-Texten sowie Sicherheitsrisiken in populären Drittanbieter-Plugin-Integrationen bei verzögertem Patchen."
     },
     "isOpenSource": false,
     "openSourceLevel": "none",
@@ -937,7 +937,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://nordvpn.com",
     "description": "Large VPN provider under Nord Security (Amsterdam with major operations in Vilnius), with a global server network and the NordLynx protocol (WireGuard-based). The Linux client is open-source under GPL-3.0, while core backend and server infrastructure remain proprietary, so trust depends on audits, disclosures, and contract terms.",
     "localizedDescriptions": {
-      "de": "Grosser VPN-Anbieter unter Nord Security (Amsterdam mit starkem operativen Zentrum in Vilnius) mit globalem Servernetz und dem NordLynx-Protokoll auf WireGuard-Basis. Der Linux-Client ist unter GPL-3.0 quelloffen, waehrend Backend und Server-Infrastruktur proprietaer bleiben. Vertrauen haengt daher stark von Audits, Offenlegung und fairen Vertragsbedingungen ab."
+      "de": "Grosser VPN-Anbieter unter Nord Security (Amsterdam mit starkem operativen Zentrum in Vilnius) mit globalem Servernetz und dem NordLynx-Protokoll auf WireGuard-Basis. Der Linux-Client ist unter GPL-3.0 quelloffen, während Backend und Server-Infrastruktur proprietär bleiben. Vertrauen hängt daher stark von Audits, Offenlegung und fairen Vertragsbedingungen ab."
     },
     "isOpenSource": true,
     "openSourceLevel": "partial",
@@ -969,7 +969,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://ollama.com",
     "description": "US-based but fully open-source (MIT) local-first runtime for running large language models on your own hardware. Ollama can run fully offline and also provides optional cloud models and paid plans when you need bigger remote capacity. Note: Ollama is headquartered in the US but included here for its open-source nature and strong local execution path.",
     "localizedDescriptions": {
-      "de": "In den USA ansaessiges, aber vollstaendig quelloffenes (MIT) Local-First-Tool zum Ausfuehren grosser Sprachmodelle auf eigener Hardware. Ollama kann komplett offline laufen und bietet optional Cloud-Modelle sowie bezahlte Plaene fuer mehr remote Rechenkapazitaet. Hinweis: Ollama hat seinen Sitz in den USA, wird aber wegen des Open-Source-Kerns und des starken lokalen Betriebswegs hier gelistet."
+      "de": "In den USA ansässiges, aber vollständig quelloffenes (MIT) Local-First-Tool zum Ausführen grosser Sprachmodelle auf eigener Hardware. Ollama kann komplett offline laufen und bietet optional Cloud-Modelle sowie bezahlte Pläne für mehr remote Rechenkapazität. Hinweis: Ollama hat seinen Sitz in den USA, wird aber wegen des Open-Source-Kerns und des starken lokalen Betriebswegs hier gelistet."
     },
     "isOpenSource": true,
     "openSourceLevel": "full",
@@ -1402,7 +1402,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://proton.me/mail",
     "description": "Swiss encrypted email service by Proton AG with end-to-end and zero-access encryption, open-source clients, and a public legal transparency report. Swiss court orders can still compel targeted metadata logging for specific accounts, and parts of the service stack remain outside fully reproducible open builds.",
     "localizedDescriptions": {
-      "de": "Verschluesselter E-Mail-Dienst aus der Schweiz von Proton AG mit Ende-zu-Ende- und Zero-Access-Verschluesselung, quelloffenen Clients und oeffentlichem Transparenzbericht. Gueltige Schweizer Gerichtsanordnungen koennen dennoch gezieltes Metadaten-Logging erzwingen, und Teile des Stacks sind weiterhin nicht voll reproduzierbar offen buildbar."
+      "de": "Verschlüsselter E-Mail-Dienst aus der Schweiz von Proton AG mit Ende-zu-Ende- und Zero-Access-Verschlüsselung, quelloffenen Clients und öffentlichem Transparenzbericht. Gültige Schweizer Gerichtsanordnungen können dennoch gezieltes Metadaten-Logging erzwingen, und Teile des Stacks sind weiterhin nicht voll reproduzierbar offen buildbar."
     },
     "isOpenSource": true,
     "openSourceLevel": "partial",
@@ -1465,7 +1465,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://protonvpn.com",
     "description": "Swiss VPN from Proton AG with a large free tier, Secure Core multi-hop routing, open-source apps, recurring third-party no-logs audits, and reported ISO 27001 plus SOC 2 Type II assurance. Trade-offs remain around recurring high-severity client CVEs and auto-renewal at then-current pricing, so patch hygiene and renewal checks are still required.",
     "localizedDescriptions": {
-      "de": "Schweizer VPN von Proton AG mit grosser Gratis-Stufe, Secure-Core-Multi-Hop-Routing, Open-Source-Apps, wiederkehrenden No-Logs-Audits durch Dritte sowie gemeldeten ISO-27001- und SOC-2-Type-II-Nachweisen. Relevante Trade-offs bleiben wiederkehrende High-Severity-Client-CVEs und Auto-Renew zum dann gueltigen Preis, daher sind Patch-Disziplin und aktive Vertragskontrolle wichtig."
+      "de": "Schweizer VPN von Proton AG mit grosser Gratis-Stufe, Secure-Core-Multi-Hop-Routing, Open-Source-Apps, wiederkehrenden No-Logs-Audits durch Dritte sowie gemeldeten ISO-27001- und SOC-2-Type-II-Nachweisen. Relevante Trade-offs bleiben wiederkehrende High-Severity-Client-CVEs und Auto-Renew zum dann gültigen Preis, daher sind Patch-Disziplin und aktive Vertragskontrolle wichtig."
     },
     "isOpenSource": true,
     "openSourceLevel": "partial",
@@ -1524,7 +1524,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://www.scaleway.com",
     "description": "French cloud provider in the Iliad Group with EU-only data centers, broad IaaS/PaaS coverage, and strong compliance signals (including ISO 27001 and HDS). Scaleway also states it does not train AI models on customer data by default, but users should actively monitor pricing changes and support/incident handling quality.",
     "localizedDescriptions": {
-      "de": "Franzoesischer Cloud-Anbieter der Iliad-Gruppe mit EU-only-Rechenzentren, breitem IaaS/PaaS-Portfolio und starken Compliance-Signalen (u. a. ISO 27001 und HDS). Scaleway gibt zudem an, Kundendaten standardmaessig nicht fuer KI-Modelltraining zu nutzen, dennoch sollten Preisveraenderungen sowie Support- und Incident-Qualitaet aktiv beobachtet werden."
+      "de": "Französischer Cloud-Anbieter der Iliad-Gruppe mit EU-only-Rechenzentren, breitem IaaS/PaaS-Portfolio und starken Compliance-Signalen (u. a. ISO 27001 und HDS). Scaleway gibt zudem an, Kundendaten standardmässig nicht für KI-Modelltraining zu nutzen, dennoch sollten Preisveränderungen sowie Support- und Incident-Qualität aktiv beobachtet werden."
     },
     "isOpenSource": false,
     "openSourceLevel": "none",
@@ -1642,7 +1642,7 @@ export const researchAlternatives: Alternative[] = [
     "website": "https://www.startmail.com",
     "description": "Dutch privacy-focused email service with unlimited aliases, built-in PGP support, and full IMAP access for exportability. Core mailbox data is hosted in the Netherlands, while payment and anti-abuse flows use selected third-party processors.",
     "localizedDescriptions": {
-      "de": "Niederlaendischer, auf Privatsphaere ausgerichteter E-Mail-Dienst mit unbegrenzten Aliasen, integrierter PGP-Unterstuetzung und vollem IMAP-Zugriff fuer den Datenexport. Kerndaten des Postfachs liegen in den Niederlanden, waehrend Zahlungs- und Abuse-Schutz-Prozesse ueber ausgewaehlte Drittanbieter laufen."
+      "de": "Niederländischer, auf Privatsphäre ausgerichteter E-Mail-Dienst mit unbegrenzten Aliasen, integrierter PGP-Unterstützung und vollem IMAP-Zugriff für den Datenexport. Kerndaten des Postfachs liegen in den Niederlanden, während Zahlungs- und Abuse-Schutz-Prozesse über ausgewählte Drittanbieter laufen."
     },
     "isOpenSource": false,
     "openSourceLevel": "none",
