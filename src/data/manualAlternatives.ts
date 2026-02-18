@@ -887,6 +887,7 @@ export const manualAlternatives: Alternative[] = [
       de: 'Verschluesselter E-Mail-Dienst aus Oesterreich mit Zero-Access-Verschluesselung (AES-GCM-256, RSA-OAEP-4096) auf Schweizer Infrastruktur. Bietet KI-gestuetzte E-Mail-Erstellung, Alias-Adressen, 25 GB Speicher (jaehrlich um 2 GB wachsend) und Organisationsfunktionen mit eigenen Domains. Der Dienst ist vollstaendig proprietaer, ohne veroeffentlichtes unabhaengiges Sicherheitsaudit und ohne PGP-Unterstuetzung.',
     },
     website: 'https://black.com',
+    logo: '/logos/black-com.svg',
     country: 'at',
     category: 'email',
     replacesUS: ['Gmail', 'Outlook', 'Yahoo Mail'],
