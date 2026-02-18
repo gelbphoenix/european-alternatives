@@ -1063,5 +1063,27 @@ export const manualAlternatives: Alternative[] = [
       },
     ],
   },
+  {
+    id: 'codeberg',
+    name: 'Codeberg',
+    logo: '/logos/codeberg.svg',
+    description:
+      'Codeberg is a version control service for open-source projects from Germany. It is built with the open-source version control software Forgejo.',
+    localizedDescriptions: {
+      de: 'Codeberg ist ein Versionskontrolldienst für Open-Source-Projekte aus Deutschland. Er wird mit der Open-Source-Versionskontrollsoftware Forgejo aufgebaut.',
+    },
+    website: 'https://codeberg.org',
+    country: 'de',
+    category: 'version-control',
+    replacesUS: ['GitHub'],
+    isOpenSource: true,
+    openSourceLevel: 'full',
+    sourceCodeUrl: 'https://codeberg.org/codeberg',
+    pricing: 'free',
+    tags: ['version control', 'devops', 'git', 'code hosting'],
+    foundedYear: 2018,
+    headquartersCity: 'Berlin',
+    license: 'GPL-licensed',
+  },
 ];
  
